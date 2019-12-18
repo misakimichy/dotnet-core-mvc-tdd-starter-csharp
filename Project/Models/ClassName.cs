@@ -1,6 +1,6 @@
 using System;
 
-namespace ProjectFileName.Modles
+namespace ProjectFile.Models
 {
     public class ClassName
     {
