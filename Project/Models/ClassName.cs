@@ -1,10 +1,10 @@
 using System;
 
-namespace ProjectFile.Models
+namespace Project.Models
 {
     public class ClassName
     {
-        public ClassConstructor()
+        public ClassName()
         {
             // Create constructor
         }
