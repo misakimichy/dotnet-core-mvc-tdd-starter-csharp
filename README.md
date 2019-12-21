@@ -1,9 +1,9 @@
 # TDD Starter for C#
 Use this repo to start new projects.
 
-# Project Name
+# Project
 
-#### _C#, .NET: Project Name, 1/1/2222_
+#### _C#, .NET: Project, mm/dd/20yy_
 
 ## Description
 Description of this application.
@@ -12,9 +12,9 @@ Description of this application.
 - 
 
 ## Spec
-| User input | Expected output |
-| :------------- | :------------- |
-| Add user input | Add expected UI output |
+| Spec | User input | Expected output |
+| :------------- | :------------- | :------------- |
+| Spec description | Add user input | Add expected UI output |
 
 
 ## Installation:
@@ -36,7 +36,6 @@ b) Command for unit testing. Run this in Project.Tests directory:
 $ dotnet restore && dotnet test
 ```
 
-
 ## Known Bugs
 * No known bugs at this time.
 
@@ -45,7 +44,6 @@ $ dotnet restore && dotnet test
 
 ## Technologies Used
 _Git, GitHub, C# and .NET Core
-
 
 ## License
 Copyright © 2019 under the MIT License
