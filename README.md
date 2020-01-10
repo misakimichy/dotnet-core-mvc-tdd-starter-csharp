@@ -3,7 +3,7 @@ Use this repo to start new projects.
 
 # Project
 
-#### _C#, .NET: Project, mm/dd/20yy_
+#### _C#, .NET: Project, mm/dd/2020_
 
 ## Description
 Description of this application.
@@ -43,7 +43,7 @@ $ dotnet restore && dotnet test
  misaki.koonce@gmail.com
 
 ## Technologies Used
-_Git, GitHub, C# and .NET Core
+_Git, GitHub, CSS, Bootstrap, C# and ASP.NET Core MVC
 
 ## License
-Copyright © 2019 under the MIT License
+Copyright © 2020 under the MIT License
